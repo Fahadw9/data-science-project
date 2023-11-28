@@ -14,8 +14,8 @@ This repository contains the code and documentation for a comprehensive analysis
 2. **Exploratory Data Analysis (EDA):**
     - Explore and visualize key features of the cricket player dataset to gain insights.
 
-3. **Ridge Regression Model:**
-    - Implement a Ridge regression model to predict cricket player performance based on selected features.
+3. **Regression Model:**
+    - Implement a regression model to predict cricket player runs scored based on selected features.
 
 ## Deliverables
 - The project includes PDF files containing the deliverables submitted for analysis.
@@ -23,6 +23,8 @@ This repository contains the code and documentation for a comprehensive analysis
     - [Deliverable-1.pdf](./Deliverable-1.pdf): Detailed Deliverable on the problem statement, source of dataset and description of dataset
     
     - [Deliverable-2.pdf](./Deliverable-2.pdf): Deliverable regarding Data Summary, univariate analysis, bivariate analysis, analysis and the key findings.
+
+    - [Research Paper IEEE.pdf](./Research-Paper.pdf): Final Research Paper in IEEE format encompassing all three phases of development.
 
 ## Usage
 1. Clone the repository:
@@ -32,3 +34,5 @@ This repository contains the code and documentation for a comprehensive analysis
 3. Open and run the Jupyter notebook:
 
 4. Explore the analysis results and findings.
+
+5. Refer to the [Research Paper IEEE.pdf](./Research-Paper.pdf)
